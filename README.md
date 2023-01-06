@@ -20,3 +20,10 @@ make -j18
 ```
 > -j_no. of cores
 
+`root@ubuntu:/home/ubuntu/UERANSIM/build#`
+```bash
+ ./nr-gnb -c ../config/free5gc-gnb.yaml
+```
+```bash
+./nr-ue -c ../config/free5gc-ue.yaml
+```
